@@ -1,0 +1,246 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    background-color: rgb(214, 211, 211);
+    padding: -20px;
+    margin-top: 10px;
+    margin-bottom: 0;
+    padding-bottom: 0px;
+    
+}
+.img1{
+    width: 50px;
+    height: 50px;
+}
+.img2{
+    width: 30px;
+    height: 30px;
+}
+.navleft{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    gap: 30px;
+    margin-left: 10px;
+}
+h2{
+    font-size: 14px;
+}
+.navright{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    gap: 20px;
+    margin-right: 10px;
+}
+select{
+    border: none;
+    background-color: rgb(214, 211, 211) ;
+}
+ .logo h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 70px;
+    margin-top: 0px;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 8px;
+    margin: 0px 30px;
+}
+.red{
+    color: red;
+}
+.mainpic{
+    width: 97vw;
+    height:90vh;
+    margin-left: 20px;
+}
+.women {
+   
+   display: flex;
+   margin-left: 100px;
+   
+}
+.img3{
+     display: flex;
+    width: 40%;
+    height: 810px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.img4{
+    display: flex;
+    width: 30%;
+    height: 375px;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.img5{
+    
+    width: 30%;
+    height: 375px;
+    margin-left: -370px;
+    margin-top: 490px;
+}
+.men{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.men1{
+    width: 30%;
+    height: 375px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.men2{
+    width: 30%;
+    height: 375px;
+    margin-left: -375px;
+    margin-top: 490px;
+}
+.men3{
+    width: 40%;
+    height: 810px;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+.under {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+        
+    
+}
+.under img{
+    width: 80%;
+    
+}
+.MAKEUP{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+}
+.MAKEUP img{
+    width: 80%;
+    height: 400px;
+    box-sizing: border-box;
+
+}
+.new{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: underline;
+    font-size: 30px;
+    margin-top: 80px;
+    margin-bottom: 0;
+}
+.Boys{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+    font-size: 50px;
+    margin-top: 0px;
+}
+
+
+.womeen{
+    display: flex;
+    
+    width: 30%;
+    height: 30%;
+    margin-top: 40px;
+    margin-left: 70px;
+}
+.meen{
+    display: flex;
+    width: 20%;
+    height: 20%;
+    margin-top: -555px;
+    margin-left: 500px;
+    
+}
+.girl{
+    display: flex;
+    width: 20%;
+    height: 400px;
+    margin-top: -380px;
+    margin-left: 780px;
+}
+.boy{
+    display: flex;
+    width: 20%;
+    height: 365px;
+    margin-top: -385px;
+    margin-left: 1050px;
+
+}
+ .text{
+    margin-left: 500px;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.hi{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+}
+.text :nth-child(2) {
+    margin-top: 0;
+}
+.text :nth-child(3) {
+    margin-top: 0;
+}
+.footer{
+    background-color: #101010;
+    margin: 0 40px;
+    padding-bottom: 20px;
+    
+}
+.child1{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content:  center;
+    flex-direction: column;
+
+}
+.child2{
+
+    display: flex;
+    flex-direction: row;
+}
+.child1 :nth-child(2){
+    margin-top: 0;
+}
+.child2 button{
+    padding: 10px;
+    font-size: 16px;
+    background-color: #101010;
+    border: 2px solid white;
+    color: white;
+}
+.child1 span{
+    margin-left: 50px;
+}
